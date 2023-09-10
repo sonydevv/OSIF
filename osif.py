@@ -53,7 +53,7 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('[*] ' + name + ' [*]').center(44)
+		print ('[*] ' + SonyDevArmStrong + ' [*]').center(44)
 		print ' '
 
 	except (KeyError,IOError):
