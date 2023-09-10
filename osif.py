@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Jangan Direcode ya bosku , tinggal make apa susahnya sihh
+     Jangan Direcode ya bosku , tinggal make apa susahnya sih
 '''
 ###################################################################
 #                             COLOR
